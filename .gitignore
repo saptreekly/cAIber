@@ -1,0 +1,5 @@
+logs/*
+data/preprocessed_json/*
+data/normalized_json_logs/*
+data/feature_engineered/*
+data/raw_event_logs/EVTX-ATTACK-SAMPLES/*
