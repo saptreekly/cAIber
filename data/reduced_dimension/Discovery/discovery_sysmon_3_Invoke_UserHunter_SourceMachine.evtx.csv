@@ -1,0 +1,10 @@
+EventID,Channel,Computer,Provider,TimeCreated,PC1,PC2
+3,Microsoft-Windows-Sysmon/Operational,alice.insecurebank.local,Microsoft-Windows-Sysmon,2019-05-14T17:17:26.440651,3179.857758971518,-0.49999258887176995
+3,Microsoft-Windows-Sysmon/Operational,alice.insecurebank.local,Microsoft-Windows-Sysmon,2019-05-14T17:17:26.738626,3179.8563438113906,0.5000064097886365
+3,Microsoft-Windows-Sysmon/Operational,alice.insecurebank.local,Microsoft-Windows-Sysmon,2019-05-14T17:17:38.250959,-908.5259362999961,-3.2857129700151706
+3,Microsoft-Windows-Sysmon/Operational,alice.insecurebank.local,Microsoft-Windows-Sysmon,2019-05-14T17:17:38.250959,-908.5273514601238,-2.285713971354765
+3,Microsoft-Windows-Sysmon/Operational,alice.insecurebank.local,Microsoft-Windows-Sysmon,2019-05-14T17:17:38.250959,-908.5287666202513,-1.2857149726943593
+3,Microsoft-Windows-Sysmon/Operational,alice.insecurebank.local,Microsoft-Windows-Sysmon,2019-05-14T17:17:38.250959,-908.5301817803789,-0.28571597403395377
+3,Microsoft-Windows-Sysmon/Operational,alice.insecurebank.local,Microsoft-Windows-Sysmon,2019-05-14T17:17:38.250959,-908.5315969405063,0.7142830246264519
+3,Microsoft-Windows-Sysmon/Operational,alice.insecurebank.local,Microsoft-Windows-Sysmon,2019-05-14T17:17:38.250959,-908.5344272607615,2.714281021947263
+3,Microsoft-Windows-Sysmon/Operational,alice.insecurebank.local,Microsoft-Windows-Sysmon,2019-05-14T17:17:38.250959,-908.5358424208891,3.7142800206076685

@@ -1,0 +1,9 @@
+EventID,Channel,Computer,Provider,TimeCreated,PC1,PC2
+1,Microsoft-Windows-Sysmon/Operational,MSEDGEWIN10,Microsoft-Windows-Sysmon,2019-08-03T10:51:46.511812,2007.5912572472052,-272.1499473169007
+11,Microsoft-Windows-Sysmon/Operational,MSEDGEWIN10,Microsoft-Windows-Sysmon,2019-08-03T10:51:46.647421,463.0829270222275,720.5181834627954
+1,Microsoft-Windows-Sysmon/Operational,MSEDGEWIN10,Microsoft-Windows-Sysmon,2019-08-03T10:51:46.685993,-1138.6121262119061,3865.876184779229
+1,Microsoft-Windows-Sysmon/Operational,MSEDGEWIN10,Microsoft-Windows-Sysmon,2019-08-03T10:51:47.219517,-5375.293756271653,-2726.044989318221
+1,Microsoft-Windows-Sysmon/Operational,MSEDGEWIN10,Microsoft-Windows-Sysmon,2019-08-03T10:51:48.431273,2553.4233792919986,-532.6174012225208
+1,Microsoft-Windows-Sysmon/Operational,MSEDGEWIN10,Microsoft-Windows-Sysmon,2019-08-03T10:51:48.675629,2220.371326699247,-1050.8184531934282
+1,Microsoft-Windows-Sysmon/Operational,MSEDGEWIN10,Microsoft-Windows-Sysmon,2019-08-03T10:51:48.696407,-2780.0829568476124,1311.8852857797574
+1,Microsoft-Windows-Sysmon/Operational,MSEDGEWIN10,Microsoft-Windows-Sysmon,2019-08-03T10:51:49.371552,2049.519949070497,-1316.6488629707117

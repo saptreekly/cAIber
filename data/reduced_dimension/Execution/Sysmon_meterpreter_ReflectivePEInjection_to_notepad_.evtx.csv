@@ -1,0 +1,14 @@
+EventID,Channel,Computer,Provider,TimeCreated,PC1,PC2
+10,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-07-03T20:39:29.223482,147.03729779259655,-2.418178524467247e-13
+8,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-07-03T20:39:30.129732,147.03729779259658,-2.821767661494065e-13
+8,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-07-03T20:39:30.145357,147.03729779259658,-2.8217676614940657e-13
+8,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-07-03T20:39:30.160984,147.03729779259658,-2.8217676614940657e-13
+8,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-07-03T20:39:30.176607,147.03729779259658,-2.8217676614940657e-13
+8,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-07-03T20:39:30.192232,147.03729779259658,-2.8217676614940657e-13
+8,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-07-03T20:39:30.207859,147.03729779259658,-2.8217676614940657e-13
+8,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-07-03T20:39:30.223482,147.03729779259658,-2.8217676614940657e-13
+8,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-07-03T20:39:30.239109,147.03729779259658,-2.8217676614940657e-13
+8,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-07-03T20:39:30.254732,147.03729779259658,-2.8217676614940657e-13
+1,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-07-03T20:39:30.254732,9.784287912860151e-14,-2.0524512001114692e-13
+10,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-07-03T20:39:30.254732,-1470.372977925967,-2.7814087477913825e-13
+3,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-07-03T20:39:31.707859,9.784287912860151e-14,-2.0524512001114692e-13

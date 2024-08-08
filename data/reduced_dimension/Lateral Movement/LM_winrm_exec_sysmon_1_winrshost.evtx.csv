@@ -1,0 +1,4 @@
+EventID,Channel,Computer,Provider,TimeCreated,PC1,PC2
+1,Microsoft-Windows-Sysmon/Operational,DC1.insecurebank.local,Microsoft-Windows-Sysmon,2019-05-16T01:31:36.426870,-2215.6881795007794,27.00827236383499
+1,Microsoft-Windows-Sysmon/Operational,DC1.insecurebank.local,Microsoft-Windows-Sysmon,2019-05-16T01:31:36.454893,1163.6789268280484,790.3207645075994
+1,Microsoft-Windows-Sysmon/Operational,DC1.insecurebank.local,Microsoft-Windows-Sysmon,2019-05-16T01:31:36.456890,1052.0092526727306,-817.3290368714335

@@ -1,0 +1,3 @@
+EventID,Channel,Computer,Provider,TimeCreated,PC1,PC2
+1,Microsoft-Windows-Sysmon/Operational,MSEDGEWIN10,Microsoft-Windows-Sysmon,2019-08-14T12:17:14.614738,1190.9139347576722,-3.2822575006557523e-15
+1,Microsoft-Windows-Sysmon/Operational,MSEDGEWIN10,Microsoft-Windows-Sysmon,2019-08-14T12:17:14.893929,-1190.9139347576718,-3.2822575006557527e-15

@@ -1,0 +1,5 @@
+EventID,Channel,Computer,Provider,TimeCreated,PC1,PC2
+4625,Security,MSEDGEWIN10,Microsoft-Windows-Security-Auditing,2020-09-09T13:18:23.627951,-0.75,0.0
+4624,Security,MSEDGEWIN10,Microsoft-Windows-Security-Auditing,2020-09-09T13:18:25.377119,2.25,0.0
+4624,Security,MSEDGEWIN10,Microsoft-Windows-Security-Auditing,2020-09-09T13:18:27.714613,-0.75,0.0
+4624,Security,MSEDGEWIN10,Microsoft-Windows-Security-Auditing,2020-09-09T13:18:27.714758,-0.75,0.0

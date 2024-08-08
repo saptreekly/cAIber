@@ -1,0 +1,12 @@
+EventID,Channel,Computer,Provider,TimeCreated,PC1,PC2
+1116,Microsoft-Windows-Windows Defender/Operational,MSEDGEWIN10,Microsoft-Windows-Windows Defender,2019-07-18T20:40:00.730675,10291.542433141036,-12.77542801920806
+1116,Microsoft-Windows-Windows Defender/Operational,MSEDGEWIN10,Microsoft-Windows-Windows Defender,2019-07-18T20:40:16.396421,20368.541933468205,-16.05572495348387
+1116,Microsoft-Windows-Windows Defender/Operational,MSEDGEWIN10,Microsoft-Windows-Windows Defender,2019-07-18T20:41:16.418509,-6765.459393947961,-9.87664695370324
+1116,Microsoft-Windows-Windows Defender/Operational,MSEDGEWIN10,Microsoft-Windows-Windows Defender,2019-07-18T20:41:17.508276,-31880.455001481896,0.6746969488551394
+1116,Microsoft-Windows-Windows Defender/Operational,MSEDGEWIN10,Microsoft-Windows-Windows Defender,2019-07-18T20:41:48.236137,11368.542606360897,-13.531706114932497
+1117,Microsoft-Windows-Windows Defender/Operational,MSEDGEWIN10,Microsoft-Windows-Windows Defender,2019-07-18T20:51:50.275471,10291.573964690646,88.9963214092883
+1116,Microsoft-Windows-Windows Defender/Operational,MSEDGEWIN10,Microsoft-Windows-Windows Defender,2019-07-18T20:51:50.798994,-6765.459393947961,-9.876646953703208
+1117,Microsoft-Windows-Windows Defender/Operational,MSEDGEWIN10,Microsoft-Windows-Windows Defender,2019-07-18T20:53:31.900808,-31880.45449655984,3.0390651427061606
+1117,Microsoft-Windows-Windows Defender/Operational,MSEDGEWIN10,Microsoft-Windows-Windows Defender,2019-07-18T20:53:31.902611,11368.543111282946,-11.16733792108148
+1117,Microsoft-Windows-Windows Defender/Operational,MSEDGEWIN10,Microsoft-Windows-Windows Defender,2019-07-18T20:53:31.905405,-6765.458889025909,-7.512278759852185
+1117,Microsoft-Windows-Windows Defender/Operational,MSEDGEWIN10,Microsoft-Windows-Windows Defender,2019-07-18T20:53:31.952568,20368.543125542998,-11.914313824734782

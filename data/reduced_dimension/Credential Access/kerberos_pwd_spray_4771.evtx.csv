@@ -1,0 +1,13 @@
+EventID,Channel,Computer,Provider,TimeCreated,PC1,PC2
+1102,Security,01566s-win16-ir.threebeesco.com,Microsoft-Windows-Eventlog,2020-07-22T20:29:27.321770,307.36363636363967,0.0
+4768,Security,01566s-win16-ir.threebeesco.com,Microsoft-Windows-Security-Auditing,2020-07-22T20:29:36.414827,304.36363636363944,-0.0
+4768,Security,01566s-win16-ir.threebeesco.com,Microsoft-Windows-Security-Auditing,2020-07-22T20:29:36.414856,309.36363636363967,-0.0
+4768,Security,01566s-win16-ir.threebeesco.com,Microsoft-Windows-Security-Auditing,2020-07-22T20:29:36.414928,308.36363636363967,-0.0
+4768,Security,01566s-win16-ir.threebeesco.com,Microsoft-Windows-Security-Auditing,2020-07-22T20:29:36.414967,306.36363636363967,-0.0
+4768,Security,01566s-win16-ir.threebeesco.com,Microsoft-Windows-Security-Auditing,2020-07-22T20:29:36.414984,303.3636363636396,-0.0
+4768,Security,01566s-win16-ir.threebeesco.com,Microsoft-Windows-Security-Auditing,2020-07-22T20:29:36.415049,312.36363636363967,-0.0
+4768,Security,01566s-win16-ir.threebeesco.com,Microsoft-Windows-Security-Auditing,2020-07-22T20:29:36.415371,313.36363636363967,-0.0
+4771,Security,01566s-win16-ir.threebeesco.com,Microsoft-Windows-Security-Auditing,2020-07-22T20:29:36.425364,314.36363636363956,-0.0
+4771,Security,01566s-win16-ir.threebeesco.com,Microsoft-Windows-Security-Auditing,2020-07-22T20:29:36.425838,315.36363636363967,-0.0
+4768,Security,01566s-win16-ir.threebeesco.com,Microsoft-Windows-Security-Auditing,2020-07-22T20:29:36.434698,-3094.6363636363603,0.0
+4768,Security,01566s-win16-ir.threebeesco.com,Microsoft-Windows-Security-Auditing,2020-07-22T20:29:36.437702,,

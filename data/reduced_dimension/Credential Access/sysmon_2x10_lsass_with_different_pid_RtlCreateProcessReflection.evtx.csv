@@ -1,0 +1,4 @@
+EventID,Channel,Computer,Provider,TimeCreated,PC1,PC2
+10,Microsoft-Windows-Sysmon/Operational,LAPTOP-JU4M3I0E,Microsoft-Windows-Sysmon,2020-07-07T21:51:39.204636,-10871.145729968901,1282.8310125140076
+10,Microsoft-Windows-Sysmon/Operational,LAPTOP-JU4M3I0E,Microsoft-Windows-Sysmon,2020-07-07T21:51:39.256632,-11943.684052122133,-1243.2468856341757
+10,Microsoft-Windows-Sysmon/Operational,LAPTOP-JU4M3I0E,Microsoft-Windows-Sysmon,2020-07-07T21:51:39.262861,22814.829782091037,-39.584126879832525

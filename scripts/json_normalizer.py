@@ -5,15 +5,22 @@ from tqdm import tqdm
 from datetime import datetime
 
 # Set up logging
-log_file = '../logs/normalize_json.log'
-if os.path.exists(log_file):
-    os.remove(log_file)
+log_dir = '/Users/jackweekly/Desktop/Caiber/logs'
+log_file = os.path.join(log_dir, 'normalize_json.log')
+os.makedirs(log_dir, exist_ok=True)
+
 logging.basicConfig(filename=log_file, level=logging.INFO, 
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 def normalize_timestamp(event):
-    timestamp = event['Event']['System']['TimeCreated']['@SystemTime']
-    event['Event']['System']['TimeCreated']['@SystemTime'] = datetime.fromisoformat(timestamp.replace('Z', '+00:00')).isoformat()
+    try:
+        timestamp = event['Event']['System']['TimeCreated']['@SystemTime']
+        if timestamp:
+            event['Event']['System']['TimeCreated']['@SystemTime'] = datetime.fromisoformat(timestamp.replace('Z', '+00:00')).isoformat()
+    except KeyError as e:
+        logging.error(f"Missing key during timestamp normalization: {e}")
+    except Exception as e:
+        logging.error(f"Error normalizing timestamp: {e}")
     return event
 
 def normalize_json_file(input_file, output_file):
@@ -46,6 +53,6 @@ def process_json_files(input_folder, output_folder):
             logging.error(f"Error normalizing {json_file}: {e}")
 
 if __name__ == "__main__":
-    input_folder = "../data/preprocessed_json"
-    output_folder = "../data/normalized_json_logs"
+    input_folder = "/Users/jackweekly/Desktop/Caiber/data/processed_event_logs"
+    output_folder = "/Users/jackweekly/Desktop/Caiber/data/normalized_json_logs"
     process_json_files(input_folder, output_folder)

@@ -1,0 +1,5 @@
+EventID,Channel,Computer,Provider,TimeCreated,PC1,PC2
+1,Microsoft-Windows-Sysmon/Operational,MSEDGEWIN10,Microsoft-Windows-Sysmon,2020-05-13T00:28:16.122540,2091.941941484008,59.52237780967468
+1,Microsoft-Windows-Sysmon/Operational,MSEDGEWIN10,Microsoft-Windows-Sysmon,2020-05-13T00:28:52.873899,-2882.060073393353,30.817744107930842
+1,Microsoft-Windows-Sysmon/Operational,MSEDGEWIN10,Microsoft-Windows-Sysmon,2020-05-13T00:28:52.914524,381.06282801968973,-44.845524878590936
+1,Microsoft-Windows-Sysmon/Operational,MSEDGEWIN10,Microsoft-Windows-Sysmon,2020-05-13T00:28:52.950089,409.0553038896545,-45.49459703901453

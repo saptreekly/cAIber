@@ -1,0 +1,3 @@
+EventID,Channel,Computer,Provider,TimeCreated,PC1,PC2
+1,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-05-12T14:18:03.589506,1278.7118518258912,-8.69379330334125e-15
+1,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-05-12T14:18:09.589506,-1278.7118518258915,-8.693793303341248e-15

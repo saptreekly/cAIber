@@ -1,0 +1,7 @@
+EventID,Channel,Computer,Provider,TimeCreated,PC1,PC2
+1,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-05-13T18:02:49.160589,1425.4705393744614,-288.9928103790438
+1,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-05-13T18:03:19.681479,-70.54687439560077,-234.48001197342114
+1,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-05-13T18:03:19.681479,31.417331199860463,-214.00321656047552
+1,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-05-13T18:03:19.895876,-143.85902907908883,1207.3081881908302
+3,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-05-13T18:03:21.212896,-11.111483943095285,-2.23144565397487
+1,Microsoft-Windows-Sysmon/Operational,IEWIN7,Microsoft-Windows-Sysmon,2019-05-13T18:05:18.692038,-1231.3704831565376,-467.6007036239154
